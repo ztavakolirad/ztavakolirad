@@ -1,11 +1,6 @@
 - 👋 Hi, I’m @zahratavakolirad
-- 👀 I’m interested in business intelligence
-- 🌱 I’m currently learning SSAS
-- 💞️ I’m looking to collaborate on Digikala Company
+- 👀 I’m interested in Artificial intelligence and Business Intelligence
+- 🌱 I’m currently Student at Dalhousie University
 - 📫 How to reach me linkedin.com/in/zahra-tavakolirad/
 
-More than two years of experience in working as a Business Intelligence and Data Analyst. 
-Passionate about various applications of business intelligence and machine learning in fields of
-data science, such as ETL,designing a data warehouse,
-data visualization, reporting, building dashboards,
-and identifying key performance indicators using machine learning methods.
+ I’m Zahra Tavakoli Rad, a Computer Science student at Dalhousie University. I specialize in AI, with experience in machine learning, deep learning, and spatiotemporal data analysis. My research focuses on predictive modeling using LSTM and Transformer models. I also have a background in Business Intelligence, using tools like Power BI and SQL Server to support data-driven decisions.
